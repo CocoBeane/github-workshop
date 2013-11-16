@@ -6,4 +6,4 @@ Now I'm adding new stuff.
 
 La la la la. 
 
-Some lines for version 2.
+This is the version I'm putting on Github.
